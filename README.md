@@ -14,9 +14,9 @@ experience, participants should have a Google drive account (drive.google.com) a
 
 2. Once you have a Google account you are happy to use, look through the `colab-tutorials` folder to understand how the notebooks work. 
 
-3. To open a notebook, click the Open in Colab button: <img src = 'https://i.imgur.com/A6HnQEx.png' width = 100>
+3. To open a notebook, click the Open in Colab button: <img src = 'https://i.imgur.com/A6HnQEx.png' width = 250>
 
-4. Then, save the notebook to your Google Drive: <img src = 'https://i.imgur.com/oIHM7TP.png' width = 100>
+4. Then, save the notebook to your Google Drive: <img src = 'https://i.imgur.com/oIHM7TP.png' width = 250>
 
 5. You can now make new cells, add notes & code, and anything else you like! The original version of the notebook will always remain on the GitHub in case you need it. 
 
