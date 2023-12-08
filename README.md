@@ -20,4 +20,4 @@ experience, participants should have a Google drive account (drive.google.com) a
 
 5. You can now make new cells, add notes & code, and anything else you like! The original version of the notebook will always remain on the GitHub in case you need it. 
 
-<img src = 'https://i.imgur.com/l3djb9T.png>', width = '50%'>
+<img src = 'https://i.imgur.com/l3djb9T.png>', width = '100'>
