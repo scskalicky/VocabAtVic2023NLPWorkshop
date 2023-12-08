@@ -12,10 +12,8 @@ experience, participants should have a Google drive account (drive.google.com) a
 
 1. These materials use Google Colaboratory notebooks, which means you will need a Google account to use them. 
 2. Once you have a Google account you are happy to use, look through the `colab-tutorials` folder to understand how the notebooks work. 
-3. <img src = "https://colab.research.google.com/assets/colab-badge.svg">
-    - To open a notebook, click the Open in Colab button 
-4. <img src = 'https://i.imgur.com/oIHM7TP.png'>
-    - Then, save the notebook to your Google Drive: 
+3. To open a notebook, click the Open in Colab button <img src = "https://colab.research.google.com/assets/colab-badge.svg">
+4. Then, save the notebook to your Google Drive using the "Copy to Drive" button (or the drop-down menus)
 5. You can now make new cells, add notes & code, and anything else you like! The original version of the notebook will always remain on the GitHub in case you need it. 
 
 <img src = 'https://i.imgur.com/l3djb9T.png>' width = '500'>
