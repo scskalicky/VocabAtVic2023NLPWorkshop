@@ -22,7 +22,6 @@ experience, participants should have a Google drive account (drive.google.com) a
 6. You can now make new cells, add notes & code, and anything else you like! The original version of the notebook will always remain on the GitHub in case you need it. 
 
 
-
-This tutorial is part of the 2023 Wellington Vocabulary Summer School
+This tutorial is part of the 2023 [Wellington Vocabulary Summer School](https://vocabatvic.weebly.com/summer-school.html)
 
 <img src = 'https://i.imgur.com/l3djb9T.png>' width = '500'>
