@@ -13,14 +13,10 @@ experience, participants should have a Google drive account (drive.google.com) a
 
 1. These materials use Google Colaboratory notebooks, which means you will need a Google account to use them. 
 2. Once you have a Google account you are happy to use, look through the `colab-tutorials` folder to understand how the notebooks work. 
-3. This repository contains several notebooks to work through, listed above
-    - Notebook 1
-    - Notebook 2
-    - Notebook 3
+3. This repository contains several notebooks to work through, listed above. You can go through them in the numerical order listed.
 4. To open a notebook, click the Open in Colab button which appears at the top of each notebook <img src = "https://colab.research.google.com/assets/colab-badge.svg">
 5. After the notebook opens in your browser, save the notebook to your Google Drive using the "Copy to Drive" button (or the drop-down menus)
 6. You can now make new cells, add notes & code, and anything else you like! The original version of the notebook will always remain on the GitHub in case you need it. 
-
 
 This tutorial is part of the 2023 [Wellington Vocabulary Summer School](https://vocabatvic.weebly.com/summer-school.html)
 
